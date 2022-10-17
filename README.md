@@ -1,5 +1,4 @@
 # 520-Project-1
---------------MEMBERS--------------
 This project is the collective effort of
 1. Manasvini Nittala (Net ID: mn777)
 
